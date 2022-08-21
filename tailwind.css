@@ -8,6 +8,6 @@ Template:     ez
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply mt-3;
+.swiper {
+  @apply w-full h-[80vh];
 }
